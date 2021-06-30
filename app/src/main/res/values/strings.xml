@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin1_DZ1</string>
+    <string name="btn_send_to_second">Send to second</string>
+    <string name="btn_send_to_main">Send to main</string>
+    <string name="et_enter">Введите текст</string>
+    <string name="err_null">Поле не может быть пустым</string>
+</resources>
